@@ -1,0 +1,6 @@
+.vagrant
+*
+!.gitignore
+!build.sh
+!README.md
+
